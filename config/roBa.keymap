@@ -55,7 +55,7 @@
         };
 
         end_combo {
-            bindings = <&kp END>;
+            bindings = <&kp ESC>;
             key-positions = <1 2>;
         };
     };
