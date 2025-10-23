@@ -60,7 +60,7 @@
         };
 
         spotlight {
-            bindings = <&kp LG(SPACE)>;
+            bindings = <&kp RG(SPACE)>;
             key-positions = <24 25>;
         };
     };
