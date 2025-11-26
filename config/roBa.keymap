@@ -49,11 +49,6 @@
             key-positions = <20 21>;
         };
 
-        eq {
-            bindings = <&kp EQUAL>;
-            key-positions = <24 25>;
-        };
-
         end_combo {
             bindings = <&kp ESC>;
             key-positions = <1 2>;
