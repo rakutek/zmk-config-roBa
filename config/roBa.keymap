@@ -107,7 +107,7 @@
             bindings = <
 &kp N1                       &kp N2             &kp N3          &kp N4                &kp N5                                                          &kp N6              &kp N7        &kp N8     &kp N9     &kp N0
 &kp GRAVE                    &kp EQUAL          &kp MINUS       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LC(LA(KP_NUMBER_0))      &kp EQUAL           &kp PLUS          &kp ASTERISK  &kp SLASH  &kp AMPERSAND  &kp BACKSLASH
-&mt LEFT_SHIFT LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp PIPE               &kp PIPE                     &trans              &kp UNDERSCORE    &kp LT        &kp GT     &kp TILDE      &kp CARET
+&mt LEFT_SHIFT LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp PIPE               &kp PIPE                     &trans              &kp UNDERSCORE    &kp TILDE     &kp LT     &kp GT         &kp CARET
 &trans                       &trans             &trans          &trans                &trans                 &trans                       &trans              &trans                                                    &trans
             >;
         };
